@@ -10,3 +10,5 @@ git push  -u orgin main //pusht alles in main branch
 
 TAGS
 git tag tag-name
+
+git push -u origin tag-name
