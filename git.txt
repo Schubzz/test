@@ -1,0 +1,12 @@
+MUC | Julian Vogel an Alle (16:23)
+git clone //link der reposetory
+git Status // fragt Status ab
+git add . //add all to stage
+git commit -m "dfdsfd" // message to commit
+git push  -u orgin main //pusht alles in main branch
+
+
+
+
+TAGS
+git tag tag-name
